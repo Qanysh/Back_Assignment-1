@@ -20,16 +20,18 @@ BMI Calculator is a web application that allows users to calculate their Body Ma
 
 ## File Structure
 
-project-root
-|-- js
-| |-- validation.js
-|-- routes
-| |-- bmiRoutes.js
-|-- views
-| |-- index.html
-|-- package.json
-|-- package-lock.json
-|-- root.js
+project-root:
+
+    ```bash
+    |-- js
+    | |-- validation.js
+    |-- routes
+    | |-- bmiRoutes.js
+    |-- views
+    | |-- index.html
+    |-- package.json
+    |-- package-lock.json
+    |-- root.js
 
 ## Installation
 
